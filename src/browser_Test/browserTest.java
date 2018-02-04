@@ -15,6 +15,8 @@ public class browserTest {
 		driver=new ChromeDriver();
 		
 		driver.get("http://www.flipkart.com");
+		
+		System.out.println("sample");
 	}
 	
 }
